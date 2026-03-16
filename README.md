@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naman Agrawal</h1>
 
 <p align="center">
-Frontend-focused Full Stack Developer passionate about building intuitive, performant, and scalable web applications.
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Focused+Full+Stack+Developer;Building+Modern+Web+Applications;Next.js+%7C+TypeScript+%7C+PostgreSQL;Real-Time+Apps+%7C+Great+UI%2FUX&center=true&width=600&height=45">
+Full Stack Developer passionate about building intuitive, performant, and scalable web applications.
 </p>
 
 <p align="center">
@@ -37,9 +33,14 @@ Frontend-focused Full Stack Developer passionate about building intuitive, perfo
 
 ## 🎮 Miscord — Discord Clone
 
+<p align="center">
+<img src="https://github.com/Naman200111/Miscord/blob/main/public/screenshots/Channel.png"/>
+</p>
+
 A **real-time communication platform inspired by Discord**.
 
-### Features
+### Key Features
+
 - Server & channel management  
 - Real-time messaging  
 - Group video calls  
@@ -60,9 +61,14 @@ https://github.com/Naman200111/miscord
 
 ## 🎬 MyTube — YouTube Clone
 
+<p align="center">
+<img src="https://github.com/Naman200111/MyTube/blob/main/Mytube/Home%20Page.png"/>
+</p>
+
 A **full-stack video platform** with streaming, playlists, and interactive feeds.
 
-### Features
+### Key Features
+
 - Video upload & playback  
 - Comments with replies  
 - Creator channels  
